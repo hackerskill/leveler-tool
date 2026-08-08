@@ -526,6 +526,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -648,7 +649,7 @@
         "uuid": "b5bac4aa-c255-405e-9315-1ac9efa24788"
       }
     ],
-    "used_designators": "U1-4,Je1,#FLG1-3,R1,J1-4,ADXL1,#PWR1-6,SW1,TP1",
+    "used_designators": "#FLG1-3,U1-4,TP1,R1,Je1,#PWR1-6,J1-4,ADXL1,SW1",
     "variants": []
   },
   "sheets": [

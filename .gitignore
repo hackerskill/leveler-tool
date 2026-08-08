@@ -42,3 +42,6 @@ _restore_backup*/
 
 # Local project settings
 *.kicad_prl
+
+# macOS
+.DS_Store
