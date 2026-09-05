@@ -511,7 +511,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
+			(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -944,7 +944,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+			(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 				(at 5.08 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1063,7 +1063,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+			(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1412,7 +1412,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
+			(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2544,7 +2544,7 @@
 			(uuid "4ba315b4-11af-42b6-a12a-4f676f926e0a")
 		)
 		(instances
-			(project "runtime-hackpad"
+			(project "leveler-tool"
 				(path "/b5bac4aa-c255-405e-9315-1ac9efa24788"
 					(reference "#PWR01")
 					(unit 1)
@@ -2622,7 +2622,7 @@
 			(uuid "ec473953-954a-4234-8ee4-d8ddf3f652f1")
 		)
 		(instances
-			(project "runtime-hackpad"
+			(project "leveler-tool"
 				(path "/b5bac4aa-c255-405e-9315-1ac9efa24788"
 					(reference "#FLG03")
 					(unit 1)
@@ -2701,7 +2701,7 @@
 			(uuid "986c501e-85bb-44a9-979d-822b20f5992c")
 		)
 		(instances
-			(project "runtime-hackpad"
+			(project "leveler-tool"
 				(path "/b5bac4aa-c255-405e-9315-1ac9efa24788"
 					(reference "#PWR05")
 					(unit 1)
@@ -2781,7 +2781,7 @@
 			(uuid "77bd6b77-77e5-44ce-a06f-0082a5326aed")
 		)
 		(instances
-			(project "runtime-hackpad"
+			(project "leveler-tool"
 				(path "/b5bac4aa-c255-405e-9315-1ac9efa24788"
 					(reference "SW1")
 					(unit 1)
@@ -2821,7 +2821,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical"
 			(at 105.41 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -2864,7 +2864,7 @@
 			(uuid "19b33291-3a20-48a8-85e6-5ded512bc1e1")
 		)
 		(instances
-			(project "runtime-hackpad"
+			(project "leveler-tool"
 				(path "/b5bac4aa-c255-405e-9315-1ac9efa24788"
 					(reference "U4")
 					(unit 1)
@@ -2943,7 +2943,7 @@
 			(uuid "273de7c3-5848-432a-a83d-cc6c5558798f")
 		)
 		(instances
-			(project "runtime-hackpad"
+			(project "leveler-tool"
 				(path "/b5bac4aa-c255-405e-9315-1ac9efa24788"
 					(reference "#PWR04")
 					(unit 1)
@@ -3022,7 +3022,7 @@
 			(uuid "4268554b-9bbb-4eee-a3e6-ddb5fadc1525")
 		)
 		(instances
-			(project "runtime-hackpad"
+			(project "leveler-tool"
 				(path "/b5bac4aa-c255-405e-9315-1ac9efa24788"
 					(reference "#FLG02")
 					(unit 1)
@@ -3065,7 +3065,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 154.94 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -3102,7 +3102,7 @@
 			(uuid "614c3430-a5a9-4784-8e3e-ae5c449d0207")
 		)
 		(instances
-			(project "runtime-hackpad"
+			(project "leveler-tool"
 				(path "/b5bac4aa-c255-405e-9315-1ac9efa24788"
 					(reference "TP1")
 					(unit 1)
@@ -3364,7 +3364,7 @@
 			(uuid "6118f2e0-5beb-48fb-b980-03e8a1996663")
 		)
 		(instances
-			(project "runtime-hackpad"
+			(project "leveler-tool"
 				(path "/b5bac4aa-c255-405e-9315-1ac9efa24788"
 					(reference "U2")
 					(unit 1)
@@ -3442,7 +3442,7 @@
 			(uuid "7aa188f5-1060-42fc-9604-0ee923229023")
 		)
 		(instances
-			(project "runtime-hackpad"
+			(project "leveler-tool"
 				(path "/b5bac4aa-c255-405e-9315-1ac9efa24788"
 					(reference "#FLG01")
 					(unit 1)
@@ -3521,7 +3521,7 @@
 			(uuid "b9d25e08-de69-415c-a790-4a4751d4d168")
 		)
 		(instances
-			(project "runtime-hackpad"
+			(project "leveler-tool"
 				(path "/b5bac4aa-c255-405e-9315-1ac9efa24788"
 					(reference "#PWR03")
 					(unit 1)
@@ -3599,7 +3599,7 @@
 			(uuid "282ed057-7b99-4372-ba52-bdd8c7ccb969")
 		)
 		(instances
-			(project "runtime-hackpad"
+			(project "leveler-tool"
 				(path "/b5bac4aa-c255-405e-9315-1ac9efa24788"
 					(reference "#PWR02")
 					(unit 1)
@@ -3677,7 +3677,7 @@
 			(uuid "d079580d-e5ea-43c0-8a7b-35bdb9f01cc3")
 		)
 		(instances
-			(project "runtime-hackpad"
+			(project "leveler-tool"
 				(path "/b5bac4aa-c255-405e-9315-1ac9efa24788"
 					(reference "#PWR06")
 					(unit 1)
@@ -3717,7 +3717,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical"
 			(at 193.04 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -3766,7 +3766,7 @@
 			(uuid "870646b8-8cd1-47e6-91cc-6d9781e74e65")
 		)
 		(instances
-			(project "runtime-hackpad"
+			(project "leveler-tool"
 				(path "/b5bac4aa-c255-405e-9315-1ac9efa24788"
 					(reference "U1")
 					(unit 1)
@@ -3806,7 +3806,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
 			(at 91.44 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -3864,7 +3864,7 @@
 			(uuid "876f1ee0-9342-4518-b70e-ad7ead0bdfe0")
 		)
 		(instances
-			(project "runtime-hackpad"
+			(project "leveler-tool"
 				(path "/b5bac4aa-c255-405e-9315-1ac9efa24788"
 					(reference "U3")
 					(unit 1)

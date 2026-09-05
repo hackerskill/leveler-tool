@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "runtime-hackpad.kicad_pro",
+    "filename": "leveler-tool.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -526,7 +526,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "runtime-hackpad.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -644,8 +644,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "runtime-hackpad.kicad_sch",
-        "name": "Root",
+        "filename": "leveler-tool.kicad_sch",
+        "name": "leveler-tool",
         "uuid": "b5bac4aa-c255-405e-9315-1ac9efa24788"
       }
     ],
@@ -655,7 +655,7 @@
   "sheets": [
     [
       "b5bac4aa-c255-405e-9315-1ac9efa24788",
-      "Root"
+      "leveler-tool"
     ]
   ],
   "text_variables": {},
