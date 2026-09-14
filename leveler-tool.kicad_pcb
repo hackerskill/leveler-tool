@@ -2743,8 +2743,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "hackerskills"
-		(at 100 116.5 0)
+	(gr_text "1st\n"
+		(at 100.4 116.5 0)
 		(layer "F.SilkS")
 		(uuid "47ef3c38-f021-4af7-8836-06e6950f99ed")
 		(effects
