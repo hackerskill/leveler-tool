@@ -29,6 +29,12 @@ const float LEVEL_TOLERANCE = 0.40; // Adjust based on vibration levels
 const float MAX_VISIBLE_ANGLE = 45.0;
 
 void displayParallel() {
+  if (digitalRead(SW) == LOW) {
+    digitalWrite(IO, HIGH); 
+  } 
+  else {
+    digitalWrite(IO, LOW);  // Keep it muted if the switch is open (HIGH)
+  }
   for (uint8_t row = 0; row < 8; row++) {
     mx.setRow(0, row, LEVEL_HEX[row]);
   }
@@ -68,8 +74,10 @@ void loop() {
 
   if (angle >= -LEVEL_TOLERANCE && angle <= LEVEL_TOLERANCE) {
     displayParallel();
+    digitalWrite(IO, HIGH);
   }
   else {
+    digitalWrite(IO, LOW);
     float constrainedAngle = constrain(angle, -MAX_VISIBLE_ANGLE, MAX_VISIBLE_ANGLE);
     int centerRow = map(constrainedAngle, -MAX_VISIBLE_ANGLE, MAX_VISIBLE_ANGLE, 0, 7);
 
