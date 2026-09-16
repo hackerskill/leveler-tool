@@ -1,7 +1,7 @@
 # leveler-tool
 &#x09;
 
-### A interactive leveler tool based on rp 2040 with acceleration sensor and led matrix. Made with custom PCB and 3d modeled enclosure.
+### A interactive leveler tool based on rp 2040 with acceleration sensor and led matrix.
 ---
 Used to measure angle of displacement for a horizontal or a vertical surface, based on RP2040 with acceleration sensor and led matrix. Modules plug in into the custom PCB, allowing for measuring angle of displacement for a horizontal or a vertical surface.
 
